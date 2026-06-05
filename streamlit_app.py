@@ -99,7 +99,6 @@ with left:
     )
 
     st.markdown("### Vücut yapısı")
-    st.caption("Ölçü girmediğiniz durumda beden puanlamasını iyileştirmek için kullanılır.")
     width_keys = ["narrow", "medium", "wide"]
 
     st.markdown("**Göğüs / Üst yapı**")
